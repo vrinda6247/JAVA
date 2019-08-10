@@ -1,0 +1,12 @@
+Design a class to implement following mathematical problems.
+1--> L.C.M. of two numbers x and y. Receive x and y as method parameters and return computed value.
+2--> H.C.F of two numbers x and y using Euclid’s algorithm. Receive x and y as method parameters and return computed value.
+
+
+Design a class “Search” to search for an element in an array using following strategy
+1--> Linear Search
+2--> Binary Search
+
+Implement N Queens Problem using Recursion
+
+
