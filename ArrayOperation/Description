@@ -1,0 +1,5 @@
+Design a class ArrOperation which should support the following methods.
+1-->Return the size of the largest mirror section found in the input array.
+2-->Return the number of clumps in the input array.
+3--> Solve fixXY problem
+
