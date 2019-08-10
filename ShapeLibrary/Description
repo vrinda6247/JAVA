@@ -1,0 +1,16 @@
+Factory For ADT
+
+Created a Graphics Library that allows users to create and work with regular two dimensional shapes like square, rectangle, circle,
+triangle and regular polygon.
+Shape objects will be created and placed on the virtual screen at desired coordinates. We will assume that shapes will always 
+be placed in a standard orientation, where one of the edges will be parallel to the X axis, and the left corner of that edge will be
+considered as the origin of the shape. In case of circle the origin will considered to be a point on the circle that lies on the line 
+connecting the center of the circle to the origin of the screen.
+We will also maintain the timestamp specifying when the shape object was added to the screen. 
+Created a class Screen that supports following methods
+--> Add a shape object to the screen at a specified location with default orientation.
+--> Delete a shape object from the screen
+--> Delete all shape objects of a specific type
+--> Return the shape objects on the screen sorted in desired ascending order based on area, perimeter, timestamp or origin distance (distance of the origin of the shape from the origin of the screen). Consider various design options for this method.
+--> Return the list of shape objects enclosing a specified point.
+
